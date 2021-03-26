@@ -13,6 +13,7 @@ namespace JenkinsTest
         public MainPage()
         {
             InitializeComponent();
+            Console.WriteLine("IDK");
         }
     }
 }
